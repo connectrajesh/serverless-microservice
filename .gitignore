@@ -1,0 +1,15 @@
+.DS_Store
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate*
+__pycache__/
+*.pyc
+.venv/
+.env
+node_modules/
+dist/
+build/
+lambda/package.zip
+.vscode/
+.idea/
+reports/
