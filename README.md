@@ -1,6 +1,6 @@
-# serverless-microservice-architecture
+# Serverless Microservice Tuned with Lambda Power Tuning, Postman load testing results
 
-This rspository demonstrates a serverless microservice architecture using AWS Lambda, API Gateway, and DynamoDB. The architecture is designed to be scalable, cost-effective, and easy to maintain.
+This repository demonstrates a serverless microservice architecture using AWS Lambda, API Gateway, and DynamoDB. The architecture is designed to be scalable, cost-effective, and easy to maintain.
 
 I used Lambda Auto Power Tuner to optimize the performance of the Lambda functions in this architecture. The Auto Power Tuner automatically adjusts the memory and CPU allocation for each function based on its usage patterns, which helps to reduce costs and improve performance.
 
