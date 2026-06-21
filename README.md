@@ -1,4 +1,4 @@
-# Serverless Microservice Tuned with Lambda Power Tuning, Postman load testing results
+# Serverless Microservice Tuned with Lambda Power Tuning
 
 This repository demonstrates a serverless microservice architecture using AWS Lambda, API Gateway, and DynamoDB. The architecture is designed to be scalable, cost-effective, and easy to maintain.
 
