@@ -2,6 +2,7 @@
 
 This repository showcases a production-ready serverless microservice built on AWS Lambda, API Gateway, and DynamoDB. The architecture emphasizes scalability, cost-efficiency, and maintainability—ideal for modern cloud-native applications.
 
+
 <img width="2661" height="1404" alt="Lambda Auto Power Tuner (3)" src="images/DraftDiagramforGithub.drawio.png" />
 
 # Key Highlights
