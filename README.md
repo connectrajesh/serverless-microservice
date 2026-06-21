@@ -17,3 +17,7 @@ This repository showcases a production-ready serverless microservice built on AW
 # What This Proves
 
 Most teams configure Lambda memory once and forget it. This project proves that right-sizing memory allocation can significantly improve function performance while reducing overall cost—and that continuous optimization should be a standard practice, not an afterthought.
+
+# Lambda Power Tuning Results
+
+<img width="2661" height="1404" alt="Lambda Auto Power Tuner (3)" src="images/LambdaPowerTuningResults.png" />
